@@ -1,0 +1,33 @@
+makehtml, body {
+  width: 180px;
+}
+
+.button {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: left;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.button span  {
+  font-size: 1em;
+  color: #C0C0C0;
+  float: right;
+}
+
+.cmd:hover {
+  background-color: #CFF2F2;
+}
+
+.cmd {
+ background-color: #E5F2F2;
+}
+
+.clear {
+ background-color: #FBFBC9;
+}
+
+.clear:hover {
+ background-color: #EAEAC9;
+}
